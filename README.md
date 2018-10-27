@@ -17,9 +17,9 @@ For the development of new blockchain projects, we are looking for software deve
 - Development Environment (VMware ESXi Hyp, VMWare Player)
 
 ## Software links
-Node.js -> https://nodejs.org/en/
-Github Desktop -> https://desktop.github.com/
-npm -> https://www.npmjs.com/
-yarn -> https://yarnpkg.com/lang/en/
-notepad++ -> https://notepad-plus-plus.org/
-Atom -> https://atom.io/
+- Node.js -> https://nodejs.org/en/
+- Github Desktop -> https://desktop.github.com/
+- npm -> https://www.npmjs.com/
+- yarn -> https://yarnpkg.com/lang/en/
+- notepad++ -> https://notepad-plus-plus.org/
+- Atom -> https://atom.io/
